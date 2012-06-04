@@ -1,0 +1,5 @@
+This repository contains several programs for analyzing the size distribution
+of HII regions. It can be used on output from C2-Ray and probably on the
+output of other simulation tools similar to C2-Ray.
+
+Please see the HOW-TO.pdf for instructions.
